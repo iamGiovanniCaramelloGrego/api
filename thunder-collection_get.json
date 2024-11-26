@@ -1,0 +1,30 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "get",
+    "collectionId": "f35e237f-4f59-49bf-ae8c-27c028c38583",
+    "dateExported": "2024-11-26T21:09:43.025Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "44927b55-4853-4720-93ba-2e7f3f591920",
+            "colId": "f35e237f-4f59-49bf-ae8c-27c028c38583",
+            "containerId": "",
+            "name": "http://localhost/monarca/PHP/api/posts/1",
+            "url": "http://localhost/monarca/PHP/api/buscar_posts_api.php?query=rolim",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-11-26T21:08:14.570Z",
+            "modified": "2024-11-26T21:08:14.570Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "query",
+                    "value": "rolim",
+                    "isPath": false
+                }
+            ]
+        }
+    ],
+    "ref": "CTU7IFum60SoZYADliz6saZEy_EKUdTcSzUTt1pMkko1u9UmeQXKeDQkON6vrW9OUAMtX1zuIUuRSM-4XWiWSA"
+}

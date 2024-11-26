@@ -1,0 +1,28 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "post",
+    "collectionId": "ab2ac62d-2d0b-42aa-b2ca-50d821f29a7e",
+    "dateExported": "2024-11-26T21:09:49.177Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "c0bf0516-82de-45d2-b19b-7bf6a576cc96",
+            "colId": "ab2ac62d-2d0b-42aa-b2ca-50d821f29a7e",
+            "containerId": "",
+            "name": "http://localhost/monarca/PHP/api/criar.php",
+            "url": "http://localhost/monarca/PHP/api/criar.php",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2024-11-26T21:08:30.823Z",
+            "modified": "2024-11-26T21:08:30.823Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"usuario_id\": 44,\r\n  \"texto\": \"Este é um novo post\",\r\n  \"foto\": \"caminho/da/foto.jpg\",\r\n  \"video\": \"caminho/do/video.mp4\"\r\n}\r\n",
+                "form": []
+            }
+        }
+    ],
+    "ref": "s8FgcQVDmHyS1JKhEl96IAO8uA6MbJqpMuuwqeYXc7OT5AjlVw48e-KiRXgoKQIa7yZtOMJJZoVB8QfxcQKZAg"
+}

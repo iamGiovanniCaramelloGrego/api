@@ -1,0 +1,28 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "delete",
+    "collectionId": "c0a2ecf4-4471-4933-96a7-27eae5916b85",
+    "dateExported": "2024-11-26T21:09:09.716Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "1c348687-4bc4-4982-90d9-fe60cc360812",
+            "colId": "c0a2ecf4-4471-4933-96a7-27eae5916b85",
+            "containerId": "",
+            "name": "http://localhost/monarca/PHP/api/deletar.php?id=74",
+            "url": "http://localhost/monarca/PHP/api/deletar.php",
+            "method": "DELETE",
+            "sortNum": 10000,
+            "created": "2024-11-26T21:07:42.688Z",
+            "modified": "2024-11-26T21:07:42.688Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"id\": 77\r\n}\r\n",
+                "form": []
+            }
+        }
+    ],
+    "ref": "39AHQhqTOSKbEl3YqZim4cSIsmDTT6F1nvo2BjiuGfDsh_JVS8xSUi2xI2rilmmBSxd9RX8bighXaOIN-YC9BA"
+}

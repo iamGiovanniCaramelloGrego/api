@@ -1,0 +1,28 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "put",
+    "collectionId": "d0f79ed3-eea4-4c28-b33d-182596d81e2e",
+    "dateExported": "2024-11-26T21:09:56.641Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "0aa83eba-5ed6-4a8b-8a2a-5a997967fe38",
+            "colId": "d0f79ed3-eea4-4c28-b33d-182596d81e2e",
+            "containerId": "",
+            "name": "http://localhost/monarca/PHP/api/atualizar.php",
+            "url": "http://localhost/monarca/PHP/api/atualizar.php",
+            "method": "PUT",
+            "sortNum": 10000,
+            "created": "2024-11-26T21:08:45.653Z",
+            "modified": "2024-11-26T21:08:45.653Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"id\": 78,\r\n  \"text\": \"Texto atualizado do post.\"\r\n}\r\n",
+                "form": []
+            }
+        }
+    ],
+    "ref": "s2lHV6_cVtj0jAFyiMMMINEF1FXNuFi3bD5CQpakr2bdob22hG4OE8q0UUIasj8ZeecQx8RLYD3P7qJZq-_e2g"
+}
